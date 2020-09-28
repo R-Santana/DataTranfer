@@ -1,2 +1,2 @@
 # DataTranfer
-Script for moving data
+Scripts for moving data
